@@ -3171,11 +3171,11 @@ footer {
     font-size: 14px;
     padding: 6.6rem 0 4.2rem;
     text-align: center;
-    color: rgba(255, 255, 255, 0.2);
+    color: rgb(255, 255, 255);
 }
 
 footer a, footer a:visited {
-    color: #862121;
+    color: #216886;
 }
 
 footer a:hover, footer a:focus {
@@ -3258,7 +3258,7 @@ footer a:hover, footer a:focus {
     content: "|";
     display: inline-block;
     padding: 0 1rem 0 1.2rem;
-    color: rgba(255, 255, 255, 0.1);
+    color: rgb(49, 47, 47);
 }
 
 .footer-bottom .margin-bottom
