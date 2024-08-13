@@ -1,6 +1,6 @@
 ﻿<?php
 
-$siteOwnersEmail = 'yulaiduan@gmail.com';
+$siteOwnersEmail = 'thekingsman2525@gmail.com';
 
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
